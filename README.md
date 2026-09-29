@@ -3,6 +3,5 @@ o
 p
 q
 r
-s
 t
 u
