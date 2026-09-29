@@ -1,7 +1,6 @@
 # AptitudeForComptetion
 >
 A
-C
 D
 E
 F
