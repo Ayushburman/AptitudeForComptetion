@@ -2,7 +2,6 @@
 D
 F
 G
-h
 j
 k
 l
