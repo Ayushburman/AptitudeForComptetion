@@ -4,7 +4,6 @@ F
 G
 j
 k
-l
 m
 n
 o
