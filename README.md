@@ -1,4 +1,4 @@
-# AptitudeForComptetion
+# 
 >
 A
 D
