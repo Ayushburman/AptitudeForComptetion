@@ -87,4 +87,3 @@ I have no search access and can't verify these titles, so double-check the exact
 - **Week 9**: 13+/15 on PYQ sets
 - **Week 12**: 14+/15 consistently on timed mocks
 
-If you tell me your weakest area (quant, verbal or reasoning), I can build a detailed topic-by-topic plan for it.
